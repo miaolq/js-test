@@ -11,6 +11,7 @@ npx jest --init;
 npm i -D typescript ts-node;
 npm i -D babel-jest @babel/core @babel/preset-env
 npm i -D @babel/preset-typescript
+npm i -D react react-test-renderer
 ```
 
 ```js
@@ -19,6 +20,7 @@ module.exports = {
   presets: [
     ['@babel/preset-env', { targets: { node: 'current' } }],
     '@babel/preset-typescript', // 新增
+    '@babel/preset-react',
   ],
 }
 ```
