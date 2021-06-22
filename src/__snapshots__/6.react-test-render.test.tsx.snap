@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create act 1`] = `
+<p
+  className="sub"
+>
+  1
+</p>
+`;
+
+exports[`create act 2`] = `
+<p
+  className="sub"
+>
+  2
+</p>
+`;
