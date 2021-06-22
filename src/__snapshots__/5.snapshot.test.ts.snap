@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`basic example 1`] = `
+Object {
+  "age": 12,
+  "name": "li",
+}
+`;
+
+exports[`property matcher 1`] = `
+Object {
+  "now": Any<Date>,
+}
+`;
