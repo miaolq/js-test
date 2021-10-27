@@ -52,3 +52,4 @@ jest --watchAll #runs all tests
 
 1. jest --int: Automatically clear mock calls and instances between every test?
 11
+22
